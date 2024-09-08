@@ -36,7 +36,7 @@ Welcome to the **AI & Data Science Workshop**! This workshop is designed to intr
 - **Goal:** Introduction to data manipulation using Python.
 - **Topics:**
   - Introduction to Pandas and NumPy.
-  - Reading, writing, and analyzing data with Pandas.
+  - Reading, writing and analyzing data with Pandas.
   - Basic statistical operations.
 - **Activity**: Hands-on with CSV data (loading, manipulating, visualizing).
 
