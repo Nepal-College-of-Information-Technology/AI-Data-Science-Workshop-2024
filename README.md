@@ -62,7 +62,7 @@ Welcome to the **AI & Data Science Workshop**! This workshop is designed to intr
   - Decision Trees, Random Forests, and Support Vector Machines (SVM).
   - Model training, testing, and validation.
   - Performance metrics: accuracy, precision, recall, F1-score.
-- **Activity**: Build a classifier using a real-world dataset.
+- **Activity**: Build classifier using real-world dataset.
 
 ### Day 7: Unsupervised Learning
 - **Goal:** Introduction to unsupervised learning methods.
