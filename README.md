@@ -137,7 +137,7 @@ Welcome to the **AI & Data Science Workshop**! This workshop is designed to intr
 
 ## Daily Assignments
 
-Assignments will be provided daily through [GitHub Classroom](https://classroom.github.com). Each day, students are expected to complete the tasks related to the day's content. The assignments will range from basic Python coding exercises to more advanced AI model implementations.
+Assignments will be provided daily through [GitHub Classroom](https://classroom.github.com/classrooms/138870052-ai-data-science-worksop-2024). Each day, students are expected to complete the tasks related to the day's content. The assignments will range from basic Python coding exercises to more advanced AI model implementations.
 
 - **Assignment Submission**: All submissions must be made via GitHub Classroom.
 - **Due Time**: Assignments must be submitted by 11:59 PM on the day they are assigned.
