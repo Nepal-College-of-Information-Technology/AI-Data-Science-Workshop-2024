@@ -118,17 +118,17 @@ Welcome to the **AI & Data Science Workshop**! This workshop is designed to intr
 - **Activity:** Group discussion or debate on ethical issues in AI.
 
 ### Day 14: Project Work and Guidance
-- **Goal:** Provide support and guidance for students working on real world projects.
+- **Goal:** Provide support and guidance for participants working on real world projects.
 - **Topics:**
   - Review the concepts learned throughout the workshop.
   - Group division and role assignment
   - Mentorship and troubleshooting for project work.
-- **Activity:** Group project work (students apply AI techniques to real-world problems). 
+- **Activity:** Group project work (participants apply AI techniques to real-world problems). 
 
 ### Day 15: Final Project Presentations and Wrap-up
-- **Goal:** Wrap up the workshop and present projects.
+- **Goal:** Wrap up the workshop and project presentation.
 - **Topics:**
-  - Project presentations by groups or individuals.
+  - Project presentation by groups or individuals.
   - Review key takeaways from the workshop.
   - Q&A session and feedback.
 - **Activity**: Present final projects(participants demonstrate the models they built and explain their methodology) and receive feedback.
