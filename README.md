@@ -65,7 +65,7 @@ Welcome to the **AI & Data Science Workshop**! This workshop is designed to intr
 - **Activity**: Build classifier using real-world dataset.
 
 ### Day 7: Unsupervised Learning
-- **Goal:** Introduction to unsupervised learning methods.
+- **Goal:** Introduce unsupervised learning methods.
 - **Topics:**
   - Clustering: K-Means, Hierarchical Clustering.
   - Dimensionality reduction: PCA.
