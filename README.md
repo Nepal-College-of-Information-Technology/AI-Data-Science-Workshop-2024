@@ -10,7 +10,7 @@ Welcome to the **AI & Data Science Workshop**! This workshop is designed to intr
 - **Duration**: 15 days
 - **Sessions**: 2 hours per day
 - **Total Hours**: 30 hours
-- **Mode**: Online/Onsite
+- **Mode**: Onsite
 - **Assignments**: Daily assignments will be provided via GitHub Classroom
 
 ---
