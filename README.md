@@ -28,9 +28,9 @@ Welcome to the **AI & Data Science Workshop**! This workshop is designed to intr
 ### Day 2: Python Programming Basics
 - **Goal:** Ensure foundational Python skills.
 - **Topics:**
-  - Variables, data types, functions, and control structures.
+  - Variable, data type, function, and control structures.
   - Basic input/output and file handling in Python.
-- **Activity**: Python exercises for beginners and advanced students.
+- **Activity**: Python exercises for beginners and advanced level participants.
 
 ### Day 3: Data Handling with Python
 - **Goal:** Introduction to data manipulation using Python.
