@@ -1,3 +1,5 @@
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg) ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
+
 # AI & Data Science Workshop
 
 Welcome to the **AI & Data Science Workshop**! This workshop is designed to introduce undergraduate students to the exciting fields of Artificial Intelligence and Data Science. Whether you are a beginner or already have experience with AI, this workshop will provide valuable insights and hands-on practice to help you advance in your learning journey.
