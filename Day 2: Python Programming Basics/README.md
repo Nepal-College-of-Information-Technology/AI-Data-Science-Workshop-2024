@@ -44,4 +44,4 @@
 - Go to file menu at google colab and choose **Save a copy in Drive**
 - Complete all the tasks provided in the assignment by replacing the `#code here` placeholders with working Python code.
 - After completing the tasks, go to file menu and **download the ipynb file**
-- Submit your assignment(the downloaded ipynb file) via the **GitHub Classroom** at this link: [Submit Assignment](#).
+- Submit your assignment(the downloaded ipynb file) via the **GitHub Classroom** .
