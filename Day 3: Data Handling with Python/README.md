@@ -25,13 +25,36 @@
 
 ## Activities
 
-1. **NumPy Exercise**:
-   - Task: Create arrays and perform basic mathematical operations.
-   - Example: Calculate mean, median, and standard deviation for a list of numbers.
+#### Part 1: NumPy Basics
+- **Introduction to NumPy**:
+  - Overview of NumPy’s importance for numerical operations.
+  
+- **Creating NumPy Arrays**:
+  - Convert lists into 1D, 2D, and 3D arrays.
+  
+- **Array Operations**:
+  - Perform mathematical operations and demonstrate broadcasting.
+  
+- **Indexing and Slicing**:
+  - Access elements and modify arrays using slicing.
+  
+- **Array Manipulation**:
+  - Reshape, join, and split arrays.
 
-2. **Pandas Exercise**:
-   - Task: Load, read, and manipulate a CSV file.
-   - Example: Load student data from a CSV file, filter students based on their city, and calculate the average age.
+---
+
+#### Part 2: Introduction to Pandas
+- **Introduction to Pandas**:
+  - Explain Pandas' role in data analysis.
+  
+- **Creating Pandas Series and DataFrames**:
+  - Create Series and DataFrames from lists, dictionaries, and NumPy arrays.
+  
+- **Data Operations in Pandas**:
+  - Select, filter, modify, and handle missing data in DataFrames.
+  
+- **Data Manipulation Techniques**:
+  - Sort, group, aggregate, and merge DataFrames.
 
 ---
 
