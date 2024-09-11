@@ -3,26 +3,6 @@
 **Goal**: Introduce students to data manipulation using Python with a focus on using Pandas and NumPy for handling datasets.
 
 ---
-
-## Topics Covered
-
-1. **Introduction to NumPy**:
-   - What is NumPy and why is it useful for numerical operations.
-   - Creating arrays and performing operations (addition, mean, standard deviation).
-   - Real-world examples of using NumPy for calculations.
-   
-2. **Introduction to Pandas**:
-   - What is Pandas and its importance in data manipulation.
-   - Creating DataFrames, reading and writing CSV files.
-   - Filtering, sorting, and performing statistical operations on datasets.
-
-3. **Basic Statistical Operations**:
-   - Performing basic statistical functions such as mean, median, and standard deviation using Pandas.
-   - Data manipulation with Pandas (filtering and sorting).
-   - Real-world example: Using Pandas to handle Nepali student records and analyze city-specific data.
-
----
-
 ## Activities
 
 #### Part 1: NumPy Basics
