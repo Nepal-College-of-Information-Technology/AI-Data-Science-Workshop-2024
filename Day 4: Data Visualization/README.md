@@ -41,6 +41,18 @@
    - Visualize categorical distributions with interactive pie charts using Plotly.
 
 ---
+
+### Assignment Guidelines:
+- Access the assignment file from the [Pracitce Yourself](https://github.com/Nepal-College-of-Information-Technology/AI-Data-Science-Worksop-2024/blob/main/Practice%20Yourself).
+  - Assignment_4.1_Matplotlib.ipynb
+  - Assignment_4.2_Seaborn_Plotly.ipynb
+- The file contains an "**Open in Colab**" link. Use this to open the assignment in Google Colab.
+- Go to file menu at google colab and choose **Save a copy in Drive**
+- Complete all the tasks provided in the assignment by replacing the `#code here` placeholders with working Python code.
+- After completing the tasks, go to file menu and **download the ipynb file**
+- Submit your assignment(the downloaded ipynb file) via the **GitHub Classroom** .
+
+
 ## Resources
 
 - [Matplotlib Documentation](https://matplotlib.org/)
