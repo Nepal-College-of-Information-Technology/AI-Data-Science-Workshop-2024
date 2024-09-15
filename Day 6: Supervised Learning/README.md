@@ -1,4 +1,4 @@
-# Day 6: Supervised Learning - Decision Trees, Random Forests, and SVM
+# Day 6: Supervised Learning - Decision Trees, RF, and SVM
 
 ## Goal:
 The goal of this session is to dive deeper into supervised learning algorithms such as Decision Trees, Random Forests, and Support Vector Machines (SVM), and understand how to evaluate and validate machine learning models.
