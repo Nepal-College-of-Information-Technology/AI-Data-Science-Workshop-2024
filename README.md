@@ -6,11 +6,13 @@ Welcome to the **AI & Data Science Workshop**! This workshop is designed to intr
 
 ## Workshop Details
 
-- **Start Date**: September 9th, 2024(Bhadra 24, 2081 B.S.)
+- **Start Date**: 
+  - Batch II: September 9th, 2024(Bhadra 24, 2081 B.S.)
+  - Batch III: September 15th, 2024(Bhadra 30, 2081 B.S.)
 - **Duration**: 15 days
 - **Sessions**: 2 hours per day
 - **Total Hours**: 30 hours
-- **Mode**: Onsite
+- **Mode**: Onsite/Online
 - **Assignments**: Daily assignments will be provided via GitHub Classroom
 
 ---
