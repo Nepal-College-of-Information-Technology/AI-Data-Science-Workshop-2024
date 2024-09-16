@@ -49,6 +49,17 @@ The goal of this session is to dive deeper into supervised learning algorithms s
 - Apply these algorithms to real-world datasets and analyze their performance using hands-on examples.
 
 ---
+### Assignment Guidelines:
+- Access the assignment file from the [Pracitce Yourself](https://github.com/Nepal-College-of-Information-Technology/AI-Data-Science-Worksop-2024/blob/main/Practice%20Yourself).
+  - Assignment_6.1_Decision_Trees_and_Random_Forests.ipynb
+  - Assignment_6.2_Support_Vector_Machines.ipynb
+- The file contains an "**Open in Colab**" link. Use this to open the assignment in Google Colab.
+- Go to file menu at google colab and choose **Save a copy in Drive**
+- Complete all the tasks provided in the assignment by replacing the `#code here` placeholders with working Python code.
+- After completing the tasks, go to file menu and **download the ipynb file**
+- Submit your assignment(the downloaded ipynb file) via the **GitHub Classroom** .
+
+---
 
 ## Resources:
 - Scikit-learn Documentation: https://scikit-learn.org/stable/user_guide.html
