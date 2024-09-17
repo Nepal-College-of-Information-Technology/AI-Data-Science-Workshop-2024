@@ -67,6 +67,6 @@ The goal of this session is to introduce students to the fundamentals of **neura
 - [TensorFlow Documentation](https://www.tensorflow.org/guide)
 - [Keras Documentation](https://keras.io/)
 - [MNIST Dataset Overview](http://yann.lecun.com/exdb/mnist/)
-- [Deep Learning with Python (François Chollet)](https://www.manning.com/books/deep-learning-with-python)
+
 
 ---
