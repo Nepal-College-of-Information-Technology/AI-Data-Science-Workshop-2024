@@ -16,7 +16,7 @@ The goal of this session is to understand the role of AI governance in ensuring 
 
 ### 2. **AI in Healthcare**:
    - **AI Applications**: Diagnostics, personalized medicine, telemedicine, and surgical assistance.
-   - **Example in Nepal**: Platforms like **TDO Nepal** and **Hamro Doctor** are using AI to assist in remote consultations and diagnostics.
+   - **Example in Nepal**: Platforms like  **Hamro Doctor** is using AI to assist in remote consultations and diagnostics.
    - **Ethical Issues**:
      - **Patient Privacy**: Handling sensitive medical data.
      - **Bias in Medical AI**: Ensuring AI models are trained on diverse datasets to prevent biased medical outcomes.
