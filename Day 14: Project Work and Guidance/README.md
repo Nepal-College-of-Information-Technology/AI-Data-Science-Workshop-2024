@@ -11,7 +11,7 @@
 - **1.**: Join the **AI & Data Science Workshop 2024** Discord server.
 - **2.**: Navigate to the **#project-teams** channel, which is under the **INFORMATION** category.
 - **3.**: Select your project group by clicking to the relevant group number. Once you've selected your group, you'll automatically join the corresponding team channel (e.g., **#team-1**, **#team-2**, etc.).
-- **4. **: Introduce yourself in your team’s channel and start collaborating with your team members.
+- **4.**: Introduce yourself in your team’s channel and start collaborating with your team members.
 
 ### 2. Join the GitHub Classroom Group Assignment
 - **1.**: Once you have joined your project group, your next i. s to join the **GitHub Classroom group assignment** via the invite link shared on Discord.
@@ -36,11 +36,16 @@ Once set up, any push or pull request made to the GitHub repository will automat
 ### Group Discussion:
 #### Today’s Task: Discuss with your team members and prepare a draft project abstract.
 The abstract should summarize:
+
 **Problem Statement:** What problem is your project trying to solve?
+
 **AI Techniques:** Which AI/ML techniques will you use?
+
 **Datasets:** What dataset(s) will you use for training and testing?
+
 **Project Plan:** Briefly outline the steps your team will take to complete the project.
-**Deadline:** Submit your project abstract by tomorrow (16th of October 2024) to the instructor via Discord.
+
+**Deadline:** Submit your project abstract by tomorrow (Day 15) to the instructor via Discord.
 
 ---
 ## Project Structure
