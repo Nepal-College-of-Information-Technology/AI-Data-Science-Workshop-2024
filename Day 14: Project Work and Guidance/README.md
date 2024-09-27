@@ -8,16 +8,16 @@
 ## Instructions
 
 ### 1. Join the Discord Channel
-- **1. **: Join the **AI & Data Science Workshop 2024** Discord server.
-- **2. **: Navigate to the **#project-teams** channel, which is under the **INFORMATION** category.
-- **3. **: Select your project group by clicking to the relevant group number. Once you've selected your group, you'll automatically join the corresponding team channel (e.g., **#team-1**, **#team-2**, etc.).
+- **1.**: Join the **AI & Data Science Workshop 2024** Discord server.
+- **2.**: Navigate to the **#project-teams** channel, which is under the **INFORMATION** category.
+- **3.**: Select your project group by clicking to the relevant group number. Once you've selected your group, you'll automatically join the corresponding team channel (e.g., **#team-1**, **#team-2**, etc.).
 - **4. **: Introduce yourself in your team’s channel and start collaborating with your team members.
 
 ### 2. Join the GitHub Classroom Group Assignment
-- **1. **: Once you have joined your project group, your next i. s to join the **GitHub Classroom group assignment** via the invite link shared on Discord.
-- **2. **: Your team will have its own repository where you will collaboratively work on the project.
-- **3. **: You can create as many branches as needed to work on different parts of the project. Use branch names like `feature-yourname` to organize work and contributions.
-- **4. **: Submit the final project by merging all the branches and submitting a pull request before the deadline.
+- **1.**: Once you have joined your project group, your next i. s to join the **GitHub Classroom group assignment** via the invite link shared on Discord.
+- **2.**: Your team will have its own repository where you will collaboratively work on the project.
+- **3.**: You can create as many branches as needed to work on different parts of the project. Use branch names like `feature-yourname` to organize work and contributions.
+- **4.**: Submit the final project by merging all the branches and submitting a pull request before the deadline.
 
 ---
 ### GitHub-Discord Integration (Webhooks)
